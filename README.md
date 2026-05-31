@@ -11,14 +11,13 @@
 <div align="center">
 
 ```
-          ░ ▒ ▓ █  there is something unfinished about the way I think  █ ▓ ▒ ░
+            there is something unfinished about the way I think  
 ```
 
 *Civil engineering student. Computer science. Project management.*
 *I build things that exist between structure and intuition.*
 
-```
-          ░ ▒ ▓ █████████████████████████████████████████████████████ ▓ ▒ ░
+
 ```
 
 </div>
