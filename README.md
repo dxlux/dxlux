@@ -1,77 +1,50 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=120&section=header&fontColor=c9a227" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=header&text=Francko%20Thenoux&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
-# 𝔽𝕣𝕒𝕟𝕔𝕜𝕠 𝕋𝕙𝕖𝕟𝕠𝕦𝕩
+<img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&size=18&pause=1200&color=9E6B6B&center=true&vCenter=true&width=500&lines=Civil+Engineering+%C2%B7+Computer+Science;Project+Management+%C2%B7+Systems+Thinker;always+brewing+something+dark+%F0%9F%96%A4" />
 
-<img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&size=22&pause=1000&color=8B3A3A&center=true&vCenter=true&width=600&lines=Civil+Engineering+%C2%B7+Computer+Science;Project+Management+%C2%B7+Systems+Thinker;always+brewing+something+dark+%F0%9F%96%A4" alt="Typing SVG" />
-
-<br/>
-
-> *The careful placement of earbuds and notebook speaks to a readiness for reflection —*
-> *a preparation for the internal journey that music often facilitates.*
-> *It's the quiet anticipation of inspiration.*
-
-<br/>
+> *"The careful placement of earbuds and notebook speaks to a readiness for reflection —*
+> *the quiet anticipation of inspiration."*
 
 </div>
 
 ---
 
-## 〔 About Me 〕
+### ⬡ About Me
 
 ```python
 class Francko:
-    role       = "Civil Engineering Student"
-    focus      = ["Computer Science", "Project Management"]
-    learning   = ["Software Design", "Systems Architecture"]
-    passions   = ["Music 🎵", "Games 🎮", "TV Series 📺"]
-    mood       = "always brewing something dark and interesting"
+    role      = "Civil Engineering Student"
+    focus     = ["Computer Science", "Project Management"]
+    learning  = ["Software Design", "Systems Architecture"]
+    passions  = ["Music 🎵", "Games 🎮", "TV Series 📺"]
+    mood      = "always brewing something dark and interesting"
 ```
 
 ---
 
-## 〔 Stack 〕
+### ⬡ Stack
 
 <div align="center">
 
-<br/>
-
-**Languages**
+`Python` &nbsp;·&nbsp; `Arduino` &nbsp;·&nbsp; `Git` &nbsp;·&nbsp; `VS Code`
 
 <br/>
 
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
-&nbsp;&nbsp;&nbsp;
-[![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
-
-<br/><br/>
-
-**Tools**
-
-<br/>
-
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-&nbsp;&nbsp;&nbsp;
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-
-<br/>
+<img src="https://skillicons.dev/icons?i=python,arduino,git,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## 〔 Find Me 〕
+### ⬡ Find Me
 
 <div align="center">
 
-<br/>
-
-[![Instagram](https://img.shields.io/badge/──────%20Instagram%20──────-0d0d0d?style=for-the-badge&logo=instagram&logoColor=c9a227&labelColor=0d0d0d)](https://instagram.com/dxluxito)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/TU_USUARIO)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/──────────%20Gmail%20──────────-0d0d0d?style=for-the-badge&logo=gmail&logoColor=8b3a3a&labelColor=0d0d0d)](mail:francko.thenoux@gmail.com)
-
-<br/>
+[![Gmail](https://img.shields.io/badge/Gmail-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:TU_EMAIL@gmail.com)
 
 </div>
 
@@ -79,8 +52,8 @@ class Francko:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=100&section=footer" />
+<sub>*"In stillness, the architecture of thought emerges."*</sub>
 
-*"In stillness, the architecture of thought emerges."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer" />
 
 </div>
