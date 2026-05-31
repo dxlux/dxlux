@@ -69,7 +69,7 @@ class Francko:
 
 [![Instagram](https://img.shields.io/badge/──────%20Instagram%20──────-0d0d0d?style=for-the-badge&logo=instagram&logoColor=c9a227&labelColor=0d0d0d)](https://instagram.com/dxluxito)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/──────────%20Gmail%20──────────-0d0d0d?style=for-the-badge&logo=gmail&logoColor=8b3a3a&labelColor=0d0d0d)](mailto:francko.thenoux@gmail.com)
+[![Gmail](https://img.shields.io/badge/──────────%20Gmail%20──────────-0d0d0d?style=for-the-badge&logo=gmail&logoColor=8b3a3a&labelColor=0d0d0d)](francko.thenoux@gmail.com)
 
 <br/>
 
