@@ -1,76 +1,77 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   ░▒▓ there's something raw about the way we build ▓▒░  ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=120&section=header&fontColor=c9a227" />
 
-# Hi, I'm **Francko Thenoux** 🖤
+# 𝔽𝕣𝕒𝕟𝕔𝕜𝕠 𝕋𝕙𝕖𝕟𝕠𝕦𝕩
 
-*Civil Engineering · Computer Science · Project Management*
+<img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&size=22&pause=1000&color=8B3A3A&center=true&vCenter=true&width=600&lines=Civil+Engineering+%C2%B7+Computer+Science;Project+Management+%C2%B7+Systems+Thinker;always+brewing+something+dark+%F0%9F%96%A4" alt="Typing SVG" />
 
----
+<br/>
+
+> *The careful placement of earbuds and notebook speaks to a readiness for reflection —*
+> *a preparation for the internal journey that music often facilitates.*
+> *It's the quiet anticipation of inspiration.*
+
+<br/>
 
 </div>
 
-## ◈ About Me
+---
 
-Hi, I am a civil engineering student specialized in computer science and project management. Interesting fun fact: *The careful placement of earbuds and notebook speaks to a readiness for reflection or creative thought, a preparation for the internal journey that music often facilitates. It's the quiet anticipation of inspiration.*
+## 〔 About Me 〕
 
 ```python
 class Francko:
-    def __init__(self):
-        self.role       = "Civil Engineering Student"
-        self.focus      = ["Computer Science", "Project Management"]
-        self.learning   = ["Software Design", "Systems Architecture"]
-        self.passions   = ["Music 🎵", "Games 🎮", "TV Series 📺"]
-        self.mood       = "always brewing something dark and interesting"
+    role       = "Civil Engineering Student"
+    focus      = ["Computer Science", "Project Management"]
+    learning   = ["Software Design", "Systems Architecture"]
+    passions   = ["Music 🎵", "Games 🎮", "TV Series 📺"]
+    mood       = "always brewing something dark and interesting"
 ```
 
 ---
 
-## ◈ My Stack
+## 〔 Stack 〕
 
 <div align="center">
 
-### Languages
+<br/>
 
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=c9a227)
-![Arduino](https://img.shields.io/badge/Arduino-1a1a2e?style=for-the-badge&logo=arduino&logoColor=8b3a3a)
+**Languages**
 
-### Tools & Technologies
+<br/>
 
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=c9a227)
-![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=8b3a3a)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=c9a227)
-![VS Code](https://img.shields.io/badge/VS_Code-1a1a2e?style=for-the-badge&logo=visualstudiocode&logoColor=8b3a3a)
-![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=c9a227)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+&nbsp;&nbsp;&nbsp;
+[![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
+
+<br/><br/>
+
+**Tools**
+
+<br/>
+
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+&nbsp;&nbsp;&nbsp;
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+
+<br/>
 
 </div>
 
 ---
 
-## ◈ GitHub Stats
+## 〔 Find Me 〕
 
 <div align="center">
 
-![Francko GitHub Stats](https://github-readme-stats.vercel.app/api?username=dxlux&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=c9a227&icon_color=8b3a3a&text_color=aaaaaa&border_color=2a2a2a&hide_border=false)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dxlux&layout=compact&theme=dark&bg_color=0d0d0d&title_color=c9a227&text_color=aaaaaa&border_color=2a2a2a)
+[![Instagram](https://img.shields.io/badge/──────%20Instagram%20──────-0d0d0d?style=for-the-badge&logo=instagram&logoColor=c9a227&labelColor=0d0d0d)](https://instagram.com/dxluxito)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/──────────%20Gmail%20──────────-0d0d0d?style=for-the-badge&logo=gmail&logoColor=8b3a3a&labelColor=0d0d0d)](mailto:francko.thenoux@gmail.com)
 
-</div>
-
----
-
-## ◈ Find Me
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-1a1a2e?style=for-the-badge&logo=instagram&logoColor=c9a227)](https://instagram.com/dxluxito)
-[![Gmail](https://img.shields.io/badge/Gmail-1a1a2e?style=for-the-badge&logo=gmail&logoColor=8b3a3a)](mailto:francko.thenoux@gmail.com)
+<br/>
 
 </div>
 
@@ -78,13 +79,8 @@ class Francko:
 
 <div align="center">
 
-```
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-     "In stillness, the architecture of thought emerges."
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=100&section=footer" />
 
-*dxlux · README crafted with deliberate darkness*
+*"In stillness, the architecture of thought emerges."*
 
 </div>
-
