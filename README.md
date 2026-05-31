@@ -11,13 +11,14 @@
 <div align="center">
 
 ```
-            there is something unfinished about the way I think  
+          ░ ▒ ▓ █  there is something unfinished about the way I think  █ ▓ ▒ ░
 ```
 
 *Civil engineering student. Computer science. Project management.*
 *I build things that exist between structure and intuition.*
 
-
+```
+          ░ ▒ ▓ █████████████████████████████████████████████████████ ▓ ▒ ░
 ```
 
 </div>
@@ -42,9 +43,9 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dxluxito)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/TU_USUARIO)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:francko.thenoux@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:TU_EMAIL@gmail.com)
 
 </div>
 
