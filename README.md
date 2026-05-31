@@ -38,7 +38,7 @@
 
 [![Instagram](https://img.shields.io/badge/─%20Instagram%20─-1a1a1a?style=for-the-badge&logo=instagram&logoColor=cccccc)](https://instagram.com/dxluxito)
 &nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/─%20Gmail%20─-1a1a1a?style=for-the-badge&logo=gmail&logoColor=cccccc)](mailto:francko.thenoux@gmail.com)
+[![Gmail](https://img.shields.io/badge/─%20Gmail%20─-1a1a1a?style=for-the-badge&logo=gmail&logoColor=cccccc)](https://mail.google.com/mail/?view=cm&to=francko.thenoux@gmail.com)
 
 <br/>
 
