@@ -31,7 +31,7 @@
 
 **Delux** — or Francko, if you know me.
 
-I study industrial engineering in Coquimbo, Chile. This place isn't about that.
+By day I study how systems flow. By night I build things nobody asked for. This place is about the night shift.
 
 This is my private corner: half-finished ideas, things I build only for myself, and projects that aren't ready to see the light yet.
 
