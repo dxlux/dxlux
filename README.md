@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="banner-dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="banner-light.gif">
-  <img src="banner-dark.gif" alt="dxlux" width="100%">
+  <img src="banner-dark.gif" alt="dxlux — a raven crosses the moon" width="100%">
 </picture>
 
 <br/>
@@ -45,15 +45,15 @@ Someday some of this will be public. Not yet.
 
 ```text
 ~/dxlux
- ├── private/     ████████████   sealed
- ├── wip/         ▓▓▓▓▓░░░░░░░   in progress
- └── public/      ░░░░░░░░░░░░   not yet
+ ├── private/     [##########]   sealed
+ ├── wip/         [#####.....]   in progress
+ └── public/      [..........]   not yet
 ```
 
 <h3 align="center">— find me —</h3>
 
 <p align="center">
-  <a href="https://instagram.com/dxluxito"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/un.hxly._"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
   &nbsp;
   <a href="https://mail.google.com/mail/?view=cm&to=francko.thenoux@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
 </p>
